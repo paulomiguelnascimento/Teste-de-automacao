@@ -35,6 +35,7 @@ OBS.: Não é necessário entregar todas os cenários. Complete o máximo possí
     - [APK](app/apk/app-release.apk)
 
  ### Instruções para executar os testes
+  - Explicar passo a passo como configurar o ambiente
  
  ### Telas
   
