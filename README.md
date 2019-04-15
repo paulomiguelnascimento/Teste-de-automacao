@@ -34,7 +34,8 @@ OBS.: Não é necessário entregar todas os cenários. Complete o máximo possí
   - Aplicativo
     - [APK](app/apk/app-release.apk)
 
-
+ ### Instruções para executar os testes
+ 
  ### Telas
   
   Tela Splash                               | Tela Login  | Tela Listagem   | Tela Detalhe
